@@ -20,5 +20,5 @@ Administration of directory services using Active Directory. It includes creatin
 ### UT5 – Remote Administration and Service Configuration
 Administration and service deployment in Windows Server environments. It includes configuring Remote Desktop Services for remote graphical access, enabling and managing PowerShell Remoting for command‑line administration, and setting up an application server to host and deliver network‑based applications. The unit also covers installing and configuring the OpenSSH Server on the Domain Controller to provide secure remote access through SSH.
 
-### UT6 – Automation and Advanced Scripting
-More complex Bash scripts, automation workflows, task optimization, and administrative scripting patterns.
+### UT6 – System Integration and Resource Sharing
+Configuring NFS (Network File System) to share directories between Linux and Windows systems, managing permissions, and ensuring proper access control across the network. The unit covers both server‑side and client‑side configuration, allowing multiple machines to mount and use shared folders seamlessly within the environment.
