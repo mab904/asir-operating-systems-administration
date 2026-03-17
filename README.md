@@ -11,11 +11,11 @@ Bash scripts focused on loops, conditionals, file management, and simple automat
 ### UT2 – System Process Administration
 System processes in Linux. It includes practical exercises such as locating all files in the filesystem and storing the results, comparing process monitors like `top` and `htop`, analyzing process hierarchies (PID and PPID), and identifying processes associated with the current terminal. It also covers configuring scripts to run at system startup, including a port‑monitoring script, and verifying their execution using tools like `ps -el` and `journalctl`.
 
-### UT3 – Windows Server Administration
-Active Directory basics, user and group policies, shared resources, roles and features, and administrative tools.
+### UT3 – System Information
+System information gathering, task automation, and package management in Linux. It includes scheduled tasks using crontab, such as generating hourly reports of logged‑in users and performing daily automated system updates. It also covers CSV‑based user provisioning, where a script creates system accounts from a provided CSV file. Additional exercises involve Debian package management, including installing and removing packages, checking dependencies, adding repositories and public keys, and creating a local Debian Bookworm mirror to optimize bandwidth usage. The unit concludes with the setup and configuration of an SSH server for secure remote access.
 
-### UT4 – System Services and Process Management
-Service configuration, startup processes, system logs, scheduled tasks (cron), and troubleshooting techniques.
+### UT4 – Directory Service Administration
+Administration of directory services using Active Directory. It includes creating a domain, managing users, groups, and organizational units, and extending the directory schema by adding custom attributes for all users. Additional tasks involve joining computers to the domain and managing their properties, configuring and applying Group Policy Objects (GPOs), and performing advanced searches in Active Directory using PowerShell with complex filters.
 
 ### UT5 – System Monitoring and Maintenance
 Resource monitoring, performance analysis, log review, updates, backups, and maintenance routines.
