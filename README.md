@@ -8,8 +8,8 @@ The documentation is in Spanish and organized by topics to make navigation easie
 ### UT1 – Basic Linux Shell Scripting
 Bash scripts focused on loops, conditionals, file management, and simple automation tasks. It also contains more interesting exercises such as a memory‑monitoring script that alerts when usage exceeds 75%, and a network‑scanning script that detects active devices on the local network.
 
-### UT2 – Linux System Administration
-User and group management, permissions, file systems, services, process control, and basic system configuration.
+### UT2 – System Process Administration
+System processes in Linux. It includes practical exercises such as locating all files in the filesystem and storing the results, comparing process monitors like `top` and `htop`, analyzing process hierarchies (PID and PPID), and identifying processes associated with the current terminal. It also covers configuring scripts to run at system startup, including a port‑monitoring script, and verifying their execution using tools like `ps -el` and `journalctl`.
 
 ### UT3 – Windows Server Administration
 Active Directory basics, user and group policies, shared resources, roles and features, and administrative tools.
