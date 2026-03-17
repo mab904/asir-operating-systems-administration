@@ -5,8 +5,8 @@ The documentation is in Spanish and organized by topics to make navigation easie
 
 ## Contents
 
-### UT1 – Basic Shell Scripting
-Scripts covering basic automation tasks such as file management, permissions, loops, conditionals, and system information retrieval.
+### UT1 – Basic Linux Shell Scripting
+Bash scripts focused on loops, conditionals, file management, and simple automation tasks. It also contains more interesting exercises such as a memory‑monitoring script that alerts when usage exceeds 75%, and a network‑scanning script that detects active devices on the local network.
 
 ### UT2 – Linux System Administration
 User and group management, permissions, file systems, services, process control, and basic system configuration.
