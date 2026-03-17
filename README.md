@@ -17,8 +17,8 @@ System information gathering, task automation, and package management in Linux. 
 ### UT4 – Directory Service Administration
 Administration of directory services using Active Directory. It includes creating a domain, managing users, groups, and organizational units, and extending the directory schema by adding custom attributes for all users. Additional tasks involve joining computers to the domain and managing their properties, configuring and applying Group Policy Objects (GPOs), and performing advanced searches in Active Directory using PowerShell with complex filters.
 
-### UT5 – System Monitoring and Maintenance
-Resource monitoring, performance analysis, log review, updates, backups, and maintenance routines.
+### UT5 – Remote Administration and Service Configuration
+Administration and service deployment in Windows Server environments. It includes configuring Remote Desktop Services for remote graphical access, enabling and managing PowerShell Remoting for command‑line administration, and setting up an application server to host and deliver network‑based applications. The unit also covers installing and configuring the OpenSSH Server on the Domain Controller to provide secure remote access through SSH.
 
 ### UT6 – Automation and Advanced Scripting
 More complex Bash scripts, automation workflows, task optimization, and administrative scripting patterns.
