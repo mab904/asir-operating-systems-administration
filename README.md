@@ -1,4 +1,4 @@
-# Operating Systems Administration – ASIR Module
+# 🖥️ OS Administration – ASIR Module
 
 This repository contains the practical assignments from the Operating Systems Administration module.  
 The documentation is in Spanish and organized by topics to make navigation easier. If you need any clarification, I’ll be happy to help 😁. (The exercises are documented through PDF files containing screenshots and explanations)
